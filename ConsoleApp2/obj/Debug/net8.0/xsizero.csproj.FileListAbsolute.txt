@@ -1,0 +1,14 @@
+/Users/teodoraalexandranitu/cc#/ConsoleApp2/obj/Debug/net8.0/xsizero.GeneratedMSBuildEditorConfig.editorconfig
+/Users/teodoraalexandranitu/cc#/ConsoleApp2/obj/Debug/net8.0/xsizero.AssemblyInfoInputs.cache
+/Users/teodoraalexandranitu/cc#/ConsoleApp2/obj/Debug/net8.0/xsizero.AssemblyInfo.cs
+/Users/teodoraalexandranitu/cc#/ConsoleApp2/obj/Debug/net8.0/xsizero.csproj.CoreCompileInputs.cache
+/Users/teodoraalexandranitu/cc#/ConsoleApp2/bin/Debug/net8.0/xsizero
+/Users/teodoraalexandranitu/cc#/ConsoleApp2/bin/Debug/net8.0/xsizero.deps.json
+/Users/teodoraalexandranitu/cc#/ConsoleApp2/bin/Debug/net8.0/xsizero.runtimeconfig.json
+/Users/teodoraalexandranitu/cc#/ConsoleApp2/bin/Debug/net8.0/xsizero.dll
+/Users/teodoraalexandranitu/cc#/ConsoleApp2/bin/Debug/net8.0/xsizero.pdb
+/Users/teodoraalexandranitu/cc#/ConsoleApp2/obj/Debug/net8.0/xsizero.dll
+/Users/teodoraalexandranitu/cc#/ConsoleApp2/obj/Debug/net8.0/refint/xsizero.dll
+/Users/teodoraalexandranitu/cc#/ConsoleApp2/obj/Debug/net8.0/xsizero.pdb
+/Users/teodoraalexandranitu/cc#/ConsoleApp2/obj/Debug/net8.0/xsizero.genruntimeconfig.cache
+/Users/teodoraalexandranitu/cc#/ConsoleApp2/obj/Debug/net8.0/ref/xsizero.dll
